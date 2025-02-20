@@ -242,6 +242,9 @@ footer {
 
 /* Mobile-specific styles */
 @media (max-width: 767px) {
+    .navbar-brand, .nav-link{
+        color: #0a80bc !important;
+    }
     .menu-item-container {
         width: 100px; /* Reduced width for smaller screens */
         padding: 2px; /* Reduced padding for better spacing */
