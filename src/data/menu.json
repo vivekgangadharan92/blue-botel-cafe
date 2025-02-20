@@ -1,0 +1,544 @@
+[
+    {
+        "categoryName": "Mojitos",
+        "categoryId":"mojitos",
+        "image":"images/mojito.jpg",
+        "items": [
+            {
+                "name": "Strawberry",
+                "arabic": "الفراولة",
+                "price": "15"
+            },
+            {
+                "name": "Watermelon",
+                "arabic":"بطيخ",
+                "price": "15"
+            },
+            {
+                "name": "Grape",
+                "arabic":"العنب",
+                "price": "15"
+            },
+            {
+                "name": "Green Apple",
+                "arabic":"التفاح الاخضر",
+                "price": "15"
+            },
+            {
+                "name": "Passion Fruit",
+                "arabic":"فاكهة العاطفة",
+                "price": "15"
+            },
+            {
+                "name": "Orange",
+                "arabic":"البرتقالي",
+                "price": "15"
+            },
+            {
+                "name": "Minte Lime",
+                "arabic":"الجير النعناع",
+                "price": "15"
+            }
+        ]
+    },
+    {
+        "categoryName": "Milk Shakes",
+        "categoryId":"milk-shakes",
+        "image":"images/milkshake.jpeg",
+        "items": [
+            {
+                "name": "Blueberry Cheese Cake",
+                "price": "20",
+                "arabic":"تشيز كيك بالتوت الأزرق"
+            },
+            {
+                "name": "Pistachio",
+                "price": "20",
+                "arabic":"فستق"
+            },
+            {
+                "name": "Biscoff",
+                "price": "20",
+                "arabic":"بيسكوف"
+            },
+            {
+                "name": "Oreo Cheese Cake",
+                "price": "20",
+                "arabic":"تشيز كيك الأوريو"
+            },
+            {
+                "name": "Peanut Butter",
+                "price": "20",
+                "arabic":"زبدة الفول السوداني"
+            },
+            {
+                "name": "Chocolate",
+                "price": "20",
+                "arabic":"الشوكولاته"
+            },
+            {
+                "name": "Strawberry",
+                "price": "20",
+                "arabic":"الفراولة"
+            },
+            {
+                "name": "Mango",
+                "price": "20",
+                "arabic":"مانجو"
+            }
+        ]
+    },
+    {
+        "categoryName": "Frappe",
+        "categoryId":"frappe",
+        "image":"images/frappe.jpeg",
+        "items": [
+            {
+                "name": "Matcha Oreo",
+                "price": "25",
+                "arabic":"ماتشا أوريو"
+            },
+            {
+                "name": "Vanilla",
+                "price": "23",
+                "arabic":"الفانيليا"
+            },
+            {
+                "name": "Nutella Milk",
+                "price": "23",
+                "arabic":"حليب نوتيلا"
+            },
+            {
+                "name": "Strawberry",
+                "price": "23",
+                "arabic":"الفراولة"
+            },
+            {
+                "name": "Blueberry",
+                "price": "23",
+                "arabic":".توت"
+            },
+            {
+                "name": "Pistachio",
+                "price": "23",
+                "arabic":"فستق"
+            }
+        ]
+    },
+    {
+        "categoryName": "Hot Coffee",
+        "categoryId":"hot-coffee",
+        "image":"images/hot-coffee.jpeg",
+        "heading":{
+            "left": "",
+            "middle": "S/D",
+            "right":""
+        },
+        "items": [
+            {
+                "name": "Turkish Coffee",
+                "price": "7/11",
+                "arabic":"قهوة تركية"
+            },
+            {
+                "name": "Lungo",
+                "price": "8/12",
+                "arabic":"لونغو"
+            },
+            {
+                "name": "Espresso",
+                "price": "9/13",
+                "arabic":"اسبريسو"
+            },
+            {
+                "name": "Americano",
+                "price": "10/14",
+                "arabic":"أمريكانو"
+            },
+            {
+                "name": "Macchiato",
+                "price": "11/17",
+                "arabic":"ماكياتو"
+            },
+            {
+                "name": "Cortado",
+                "price": "13/17",
+                "arabic":"كورتادو"
+            },
+            {
+                "name": "Spanish Cortado",
+                "price": "14/18",
+                "arabic":"كورتادو الاسباني"
+            },
+            {
+                "name": "Cappuccino",
+                "price": "14/18",
+                "arabic":"كابتشينو"
+            },
+            {
+                "name": "Mocha",
+                "price": "14/18",
+                "arabic":"موكا"
+            },
+            {
+                "name": "Piccolo",
+                "price": "14/18",
+                "arabic":"بيكولو"
+            },
+            {
+                "name": "Flat White",
+                "price": "14/18",
+                "arabic":"فلات وايت"
+            },
+            {
+                "name": "Latte",
+                "price": "16/20",
+                "arabic":"لاتيه"
+            },
+            {
+                "name": "Spanish Latte",
+                "price": "17/21",
+                "arabic":"لاتيه أسباني"
+            },
+            {
+                "name": "Nutella Latte",
+                "price": "17/22",
+                "arabic":"نوتيلا لاتيه"
+            },
+            {
+                "name": "V60",
+                "price": "19/23",
+                "arabic":"V60"
+            }
+        ]
+    },
+    {
+        "categoryName": "Smoothies",
+        "categoryId":"smoothies",
+        "image":"images/smoothie.jpg",
+        "items": [
+            {
+                "name": "Peanut Butter Chocolate",
+                "price": "21",
+                "arabic":"شوكولاتة زبدة الفول السوداني"
+            },
+            {
+                "name": "Chocolate",
+                "price": "21",
+                "arabic":"الشوكولاته"
+            },
+            {
+                "name": "Mango",
+                "price": "21",
+                "arabic":"مانجو"
+            },
+            {
+                "name": "Avocado",
+                "price": "21",
+                "arabic":"الأفوكادو"
+            },
+            {
+                "name": "Coffee",
+                "price": "21",
+                "arabic":"قهوة"
+            },
+            {
+                "name": "Vanilla Mango",
+                "price": "21",
+                "arabic":"فانيليا مانجو"
+            }
+        ]
+    },
+    {
+        "categoryName": "Cold Coffee",
+        "categoryId":"cold-coffee",
+        "image":"images/cold-coffee.jpg",
+        "items": [
+            {
+                "name": "Iced Americano",
+                "price": "19",
+                "arabic":"أمريكانو مثلج"
+            },
+            {
+                "name": "Iced Mocha",
+                "price": "19",
+                "arabic":"موكا مثلجة"
+            },
+            {
+                "name": "Iced Latte",
+                "price": "19",
+                "arabic":"لاتيه مثلج"
+            },
+            {
+                "name": "Iced Pistachio Latte",
+                "price": "21",
+                "arabic":"لاتيه فستق مثلج"
+            },
+            {
+                "name": "Iced Affo gata",
+                "price": "19",
+                "arabic":"أفوجاتو مثلج"
+            },
+            {
+                "name": "Iced Chocolate",
+                "price": "19",
+                "arabic":"شوكولاتة مثلجة"
+            },
+            {
+                "name": "Iced Spanish Latte",
+                "price": "22",
+                "arabic":"لاتيه اسباني مثلج"
+            },
+            {
+                "name": "Iced White Chocolate Mocha",
+                "price": "22",
+                "arabic":"موكا شوكولاتة بيضاء مثلجة"
+            },
+            {
+                "name": "Vannila Blended",
+                "price": "22",
+                "arabic":"الفانيليا المخلوطة"
+            },
+            {
+                "name": "Iced Caramel Macchiato",
+                "price": "22",
+                "arabic":"كراميل ماكياتو مثلج"
+            }
+        ]
+    },
+    {
+        "categoryName": "Juices",
+        "categoryId":"juices",
+        "image":"images/juice.jpg",
+        "items": [
+            {
+                "name": "Orange",
+                "price": "12",
+                "arabic":"البرتقالي"
+            },
+            {
+                "name": "Mango",
+                "price": "13",
+                "arabic":"مانجو"
+            },
+            {
+                "name": "Avocado",
+                "price": "13",
+                "arabic":"الأفوكادو"
+            },
+            {
+                "name": "Tender Coconut",
+                "price": "18",
+                "arabic":"جوز الهند الطري"
+            }
+        ]
+    },
+    {
+        "categoryName": "Bubble Tea",
+        "categoryId":"bubble-tea",
+        "image":"images/bubble-tea.jpg",
+        "items": [
+            {
+                "name": "Mango",
+                "price": "16",
+                "arabic":"مانجو"
+            },
+            {
+                "name": "Caramel",
+                "price": "16",
+                "arabic":"الكرمل"
+            },
+            {
+                "name": "Strawberry",
+                "price": "16",
+                "arabic":"الفراولة"
+            },
+            {
+                "name": "Chocolate",
+                "price": "16",
+                "arabic":"الشوكولاته"
+            }
+        ]
+    },
+    {
+        "categoryName": "Breakfast",
+        "categoryId":"breakfast",
+        "image":"images/breakfast.jpg",
+        "items": [
+            {
+                "name": "Scrambled Avocado Eggs",
+                "price": "20",
+                "arabic":"بيض الأفوكادو المخفوق"
+            },
+            {
+                "name": "Scrambled Eggs",
+                "price": "18",
+                "arabic":"البيض المخفوق"
+            },
+            {
+                "name": "Guacamole Benedict",
+                "price": "22",
+                "arabic":"جواكامول بنديكت"
+            },
+            {
+                "name": "French Toast",
+                "price": "22",
+                "arabic":"توست فرنسي"
+            },
+            {
+                "name": "Cheese French Toast",
+                "price": "18",
+                "arabic":"توست فرنسي بالجبنة"
+            },
+            {
+                "name": "Nutella French Toast",
+                "price": "16",
+                "arabic":"نوتيلا توست فرنسي"
+            },
+            {
+                "name": "Omelette Croissant",
+                "price": "19",
+                "arabic":"أومليت كرواسون"
+            },
+            {
+                "name": "Scrambled Egg in Potato bun",
+                "price": "20",
+                "arabic":"بيض مخفوق في كعكة البطاطس"
+            }
+        ]
+    },
+    {
+        "categoryName": "Beef Burger",
+        "categoryId":"beef-burger",
+        "image":"images/beef-burger.jpg",
+        "items": [
+            {
+                "name": "Solo Burger",
+                "price": "16",
+                "arabic":"سولو برجر"
+            },
+            {
+                "name": "Twin Burger",
+                "price": "21",
+                "arabic":"توين برجر"
+            },
+            {
+                "name": "Mushroom Swiss Burger",
+                "price": "31",
+                "arabic":"مشروم سويس برجر"
+            }
+        ]
+    },
+    {
+        "categoryName": "Chicken Burger",
+        "categoryId":"chicken-burger",
+        "image":"images/chicken-burger.jpeg",
+        "items": [
+            {
+                "name": "Zinger Burger",
+                "price": "16",
+                "arabic":"زنجر برجر"
+            },
+            {
+                "name": "Nashville Burger",
+                "price": "21",
+                "arabic":"ناشفيل برجر"
+            },
+            {
+                "name": "Ghost Burger",
+                "price": "23",
+                "arabic":"شبح برجر"
+            }
+        ]
+    },
+    {
+        "categoryName": "Havana Sandwich",
+        "categoryId":"havana-sandwich",
+        "image":"images/havana-sandwich.jpeg",
+        "items": [
+            {
+                "name": "Havana",
+                "price": "16",
+                "arabic":"هافانا"
+            },
+            {
+                "name": "Havana Meal (Fries + Fresh Juice)",
+                "price": "26",
+                "arabic":"وجبة هافانا (بطاطس مقلية + عصير طازج)"
+            }
+        ]
+    },
+    {
+        "categoryName": "Loaded Fries",
+        "categoryId":"loaded-fries",
+        "image":"images/loaded-fries.jpeg",
+        "items": [
+            {
+                "name": "Loaded Chicken",
+                "price": "16",
+                "arabic":"دجاج محمل"
+            },
+            {
+                "name": "Loaded Beef",
+                "price": "16",
+                "arabic":"لحم البقر المحمل"
+            }
+        ]
+    },
+    {
+        "categoryName": "Chicken Tortilla",
+        "categoryId":"chicken-tortilla",
+        "image":"images/chicken-tortila.jpeg",
+        "items": [
+            {
+                "name": "Chicken Twister",
+                "price": "13",
+                "arabic":"تويستر الدجاج"
+            }
+        ]
+    },
+    {
+        "categoryName": "Pasta",
+        "categoryId":"pasta",
+        "image":"images/pasta.jpeg",
+        "items": [
+            {
+                "name": "White Sauce (Chicken/Shrimp)",
+                "price": "27/30",
+                "arabic":"صلصة بيضاء (دجاج/جمبري)"
+            },
+            {
+                "name": "Red Sauce (Chicken/Shrimp)",
+                "price": "27/30",
+                "arabic":"صلصة حمراء (دجاج/جمبري)"
+            },
+            {
+                "name": "Mixed Sauce (Chicken/Shrimp)",
+                "price": "27/30",
+                "arabic":"صوص مشكل (دجاج/جمبري)"
+            },
+            {
+                "name": "Pasta Arrabiata",
+                "price": "27",
+                "arabic":"باستا اربياتا"
+            },
+            {
+                "name": "Pesto Pasta",
+                "price": "27",
+                "arabic":"باستا بيستو"
+            }
+        ]
+    },
+    {
+        "categoryName": "Burger Meal",
+        "categoryId":"burger-meal",
+        "image":"images/burger-meal.jpg",
+        "items": [
+            {
+                "name": "Burger + Fries + Soft Drinks",
+                "price": "23",
+                "arabic":"برجر + بطاطس + مشروبات غازية"
+            }
+        ]
+    }
+]
