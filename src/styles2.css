@@ -3,7 +3,7 @@
 
 body {
     font-family: 'Poppins', sans-serif;
-    background-color: #c6def0;
+    background-color: #fff;
     color: #0a80bc;
 }
 
@@ -399,8 +399,8 @@ footer {
 
 .sticky-container{
     position: sticky;
-    top:96px;
-    background-color: #c6def0;
+    top:89px;
+    background-color: #fff;
 }
 @media (min-width: 1024px) {
 
